@@ -34,3 +34,45 @@ To test its resilience, a severe localized Gaussian shock is triggered exactly a
    ```bash
    git clone [https://github.com/facuyami196IA/CE-CBMN-Algorithm.git](https://github.com/facuyami196IA/CE-CBMN-Algorithm.git)
    cd CE-CBMN-Algorithm
+
+   
+## 📝 Citación y Referencias (Citation)
+
+El documento formal de investigación y las bases matemáticas de **CE-CBMN** han sido publicados oficialmente bajo acceso abierto en Zenodo. Si utilizas este algoritmo o su código en tu investigación, por favor cítalo de la siguiente manera:
+
+**DOI Oficial:** [10.5281/zenodo.20129871](https://doi.org/10.5281/zenodo.20129871)
+
+**Formato APA:**
+Yamil, F. Y. A. (2026). *CE-CBMN: Co-Evolutionary Common Biological Market Networks - Formal Specification*. Zenodo. https://doi.org/10.5281/zenodo.20129871
+
+**Formato BibTeX:**
+```bibtex
+@misc{yamil_ce_cbmn_2026,
+  author       = {Facundo Yamil Adan Yamil},
+  title        = {CE-CBMN: Co-Evolutionary Common Biological Market Networks - Formal Specification},
+  month        = {May},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20129871},
+  url          = {[https://doi.org/10.5281/zenodo.20129871](https://doi.org/10.5281/zenodo.20129871)}
+}
+## 📝 Citación y Referencias (Citation)
+
+El documento formal de investigación y las bases matemáticas de **CE-CBMN** han sido publicados oficialmente bajo acceso abierto en Zenodo. Si utilizas este algoritmo o su código en tu investigación, por favor cítalo de la siguiente manera:
+
+**DOI Oficial:** [10.5281/zenodo.20129871](https://doi.org/10.5281/zenodo.20129871)
+
+**Formato APA:**
+Yamil, F. Y. A. (2026). *CE-CBMN: Co-Evolutionary Common Biological Market Networks - Formal Specification*. Zenodo. https://doi.org/10.5281/zenodo.20129871
+
+**Formato BibTeX:**
+```bibtex
+@misc{yamil_ce_cbmn_2026,
+  author       = {Facundo Yamil Adan Yamil},
+  title        = {CE-CBMN: Co-Evolutionary Common Biological Market Networks - Formal Specification},
+  month        = {May},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20129871},
+  url          = {[https://doi.org/10.5281/zenodo.20129871](https://doi.org/10.5281/zenodo.20129871)}
+}
